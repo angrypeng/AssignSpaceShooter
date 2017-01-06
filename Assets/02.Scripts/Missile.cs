@@ -24,8 +24,6 @@ public class Missile : MonoBehaviour {
 		transform.Translate (pos);
 	}
 
-	void On
-
 	// Use this for initialization
 	void Start () {
 		
